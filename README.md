@@ -3,4 +3,4 @@ You select a start Point and an End point then make walls as you wish then Click
 versions used : 
 npm : 14.21.3
 nvm : 1.1.10 
-please make sure you have the same version to run this on your own System 
+please make sure you have the same version to run this on your own System (Please install node_modules !!!!)
